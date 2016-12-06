@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TunnelExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>1C6A04FC1DF13E390005BDCB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C6A050F1DF13EAF0005BDCB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

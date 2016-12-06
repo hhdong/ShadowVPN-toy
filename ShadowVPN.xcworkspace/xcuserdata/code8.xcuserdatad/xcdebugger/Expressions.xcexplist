@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PacketTunnelProvider.prepareTunnelNetworkSettings() -&gt; NEPacketTunnelNetworkSettings:PacketTunnelProvider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nesettings.iPv4Settings">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PacketTunnelProvider.setupUDPSession() -&gt; ():PacketTunnelProvider.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PacketTunnelProvider.setupChnroute(settings : NEIPv4Settings) -&gt; ():PacketTunnelProvider.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PacketTunnelProvider.startConnectionWithCompletionHandler(completionHandler : (NSError?) -&gt; ()) -&gt; ():PacketTunnelProvider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " NEPacketTunnelNetworkSettings().tunnelRemoteAddress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DNSPacket.init(data : NSData) -&gt; DNSPacket?:DNSPacket.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DNSServer.udpSocket(GCDAsyncUdpSocket, didReceive : Data, fromAddress : Data, withFilterContext : Any?) -&gt; ():DNSServer.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PacketTunnelProvider.setupDNSSer() -&gt; ():PacketTunnelProvider.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DNSServer.(processResponse(datagrams : NSArray) -&gt; ()).(closure #1):DNSServer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "query.packet?.identifier&#10;query.packet?.identifier&#10;query.packet?.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PacketTunnelProvider.(startConnectionWithCompletionHandler(completionHandler : (NSError?) -&gt; ()) -&gt; ()).(closure #1):PacketTunnelProvider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error as! NSError">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
